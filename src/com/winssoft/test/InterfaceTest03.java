@@ -7,6 +7,7 @@ public class InterfaceTest03 {
 		mediaPlayer.playVideo();
 		System.out.println("Aloha");
 		System.out.println("Aloha mana");
+		System.out.println("hello");
 	}
 }
 
