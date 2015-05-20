@@ -5,6 +5,7 @@ public class InterfaceTest03 {
 		MediaPlayer mediaPlayer = new MediaPlayer();
 		mediaPlayer.playMusic();
 		mediaPlayer.playVideo();
+		System.out.println("Aloha");
 	}
 }
 
